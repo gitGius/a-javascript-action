@@ -20,7 +20,7 @@ async function run() {
 }
 
 run();
-console.log(${firstGreeting});
-console.log(${secondGreeting});
-console.log(${thirdGreeting});
+console.log(`First: ${firstGreeting}`);
+console.log(`Second: ${secondGreeting}`);
+console.log(`Third: ${thirdGreeting}`);
 
